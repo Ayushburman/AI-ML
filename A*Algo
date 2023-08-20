@@ -1,0 +1,19 @@
+A* Algorthm - It is a path finding algorithm
+search Algorithm is an algo used to solve a search problem used to retrieve information stored in data structure .
+They are essential to access to desired element i a data structure and retreive them when a need arises.
+
+Start 
+     [-][-][-][-]
+     [ ][ ][ ][|]
+     [ ][ ][ ][|]
+     [ ][ ][ ][|]  END
+Start 
+     [\][ ][ ][ ]
+     [ ][\][ ][ ]
+     [ ][ ][\][ ]
+     [ ][ ][ ][\]  END
+
+Start 
+     [-][-][-][-]
+     [ ][ ][ ][|]
+    
